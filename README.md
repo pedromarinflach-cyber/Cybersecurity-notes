@@ -1,2 +1,9 @@
-# Cybersecurity-notes
-Notes and study materials about cybersecurity concepts, networking, vulnerabilities and security practices.
+# Cybersecurity Notes
+
+This repository contains my personal notes about cybersecurity.
+
+Topics:
+- Networking basics
+- Security concepts
+- Vulnerabilities
+- Security tools
